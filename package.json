@@ -1,0 +1,26 @@
+{
+  "name": "component_buton_caunt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pemonition/component_buton_caunt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pemonition/component_buton_caunt/issues"
+  },
+  "homepage": "https://github.com/Pemonition/component_buton_caunt#readme",
+  "dependencies": {
+    "@material-ui/icons": "^4.11.2",
+    "next": "^11.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
